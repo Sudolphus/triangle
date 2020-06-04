@@ -6,3 +6,5 @@ else
 a===b || b===c || a==c (isosceles)
 else
 a!==b  && b!==c && a!==c (scalene)
+
+

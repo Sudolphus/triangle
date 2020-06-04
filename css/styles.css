@@ -7,3 +7,7 @@
   color: inherit;
   background-color: #c5b1fa;
 }
+
+body {
+  background-image: url('../img/triangle-bg.jpg');
+}
