@@ -1,1 +1,9 @@
- 
+.jumbotron-tri {
+  text-align: center;
+  padding-top: 30px;
+  font-family: 'Fredoka One', cursive;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #c5b1fa;
+}
