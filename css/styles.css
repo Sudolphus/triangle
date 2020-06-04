@@ -11,3 +11,7 @@
 body {
   background-image: url('../img/triangle-bg.jpg');
 }
+
+#equilateral, #isosceles, #scalene, #invalid {
+  display: none;
+}
