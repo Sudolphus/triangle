@@ -1,0 +1,8 @@
+/test whether triangle
+a+b <= c  || a+c  <= b || b+c <=a  (not a triangle)
+else
+a===b===c (equilateral)
+else
+a===b || b===c || a==c (isosceles)
+else
+a!==b  && b!==c && a!==c (scalene)
